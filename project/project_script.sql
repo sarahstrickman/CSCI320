@@ -39,20 +39,20 @@ CREATE TABLE ANSWER ( QKEY VARCHAR(10) NOT NULL,
 
 
 
-INSERT INTO QUESTION ( 'CONG[S]', 
+INSERT INTO QUESTION ( 'CONG [S]', 
 	'If the elections for the U.S. House of Representatives were being held TODAY, what party would you vote for?'
 )
 
-INSERT INTO QUESTION ( 'CONGA[S]', 
+INSERT INTO QUESTION ( 'CONGA [S]', 
 	'As of TODAY, what political party do you lean more towards?'
 )
 
-INSERT INTO QUESTION ( 'VTPLAN[S]',
+INSERT INTO QUESTION ( 'VTPLAN [S]',
 	'Do you plan to vote in the elections this November?'
 )
 
 INSERT INTO QUESTION ( 'GENDOPT [S]',
-	'When a form or online profile asks about a person�s gender, do you think it should include options other than �man� and �woman� for people who don�t identify as either?'
+	'When a form or online profile asks about a persons gender, do you think it should include options other than man and woman for people who don not identify as either?'
 }
 
 INSERT INTO QUESTION ( 'VTSYSSEC_US [S]',
@@ -60,7 +60,7 @@ INSERT INTO QUESTION ( 'VTSYSSEC_US [S]',
 )
 
 INSERT INTO QUESITON ( 'CANDHOUSAT [S]',
-	How satisfied are you with the choice of candidates for Congress in your district this November?
+	'How satisfied are you with the choice of candidates for Congress in your district this November?'
 )
 
 INSERT INTO QUESTION ( 'ELCTCMMT_R [S]',
